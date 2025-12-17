@@ -245,7 +245,7 @@ DrmnefWebScanner/
 ---
 
 ## 📞 التواصل
-- **المطور:** Mnefal Alenzi (Drmnef)
+- **المطور:** Mnef Alenzi (Drmnef)
 - **البريد:** mnefal3nzi@gmail.com
 - **GitHub:** https://github.com/mnefal-3nzi
 
