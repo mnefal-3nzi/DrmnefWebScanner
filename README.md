@@ -1,12 +1,13 @@
 # DrmnefWebScanner
 
+![Version](https://img.shields.io/badge/Version-3.0-blue)
+![Python](https://img.shields.io/badge/Python-3.7%2B-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
+
 **Advanced Web Vulnerability Scanner**  
 الإصدار: **3.0** | اللغة: **Python 3.7+** | الرخصة: **MIT**
 
 ---
-![Version](https://img.shields.io/badge/Version-3.0-blue)
-![Python](https://img.shields.io/badge/Python-3.7%2B-green)
-![License](https://img.shields.io/badge/License-MIT-orange)
 
 ## 📖 نظرة عامة
 **DrmnefWebScanner** هو ماسح ثغرات ويب احترافي موجّه لمختبري الاختراق الأخلاقيين ومتخصصي الأمن السيبراني. يوفّر الأداة إطار عمل متكامل لاكتشاف، تحليل، وتوثيق الثغرات الأمنية في تطبيقات الويب باستخدام تقنيات فحص ذكية ومتعددة المستويات.
