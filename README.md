@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7%2B-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
-**Advanced Web Vulnerability Scanner**  
 
 ---
 
