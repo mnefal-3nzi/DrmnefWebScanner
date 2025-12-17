@@ -1,8 +1,7 @@
 DrmnefWebScanner - Advanced Web Vulnerability Scanner
-https://img.shields.io/badge/Version-3.0-blue
-https://img.shields.io/badge/Python-3.7%252B-green
-https://img.shields.io/badge/License-MIT-orange
-https://img.shields.io/badge/Platform-Windows%2520%257C%2520Linux%2520%257C%2520macOS-lightgrey
+![Version](https://img.shields.io/badge/Version-3.0-blue)
+![Python](https://img.shields.io/badge/Python-3.7%2B-green)
+![License](https://img.shields.io/badge/License-MIT-orange)
 
 📖 نظرة عامة
 DrmnefWebScanner هو أداة مسح ثغرات ويب متقدمة مصممة للمختبرين الأخلاقيين والمتخصصين في أمن المعلومات. تتميز الأداة بقدرات متقدمة لاكتشاف وتقييم الثغرات الأمنية في تطبيقات الويب.
