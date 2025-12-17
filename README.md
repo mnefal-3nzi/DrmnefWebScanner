@@ -5,7 +5,6 @@
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
 **Advanced Web Vulnerability Scanner**  
-الإصدار: **3.0** | اللغة: **Python 3.7+** | الرخصة: **MIT**
 
 ---
 
